@@ -105,7 +105,7 @@ export default {
 
 <style scoped>
   html,
-  body,
+  #app,
   div,
   span,
   object,
@@ -182,7 +182,7 @@ export default {
     background: transparent;
   }
 
-  body {
+  #app {
     line-height: 1.6;
   }
 
@@ -292,7 +292,7 @@ export default {
     flex-wrap: wrap;
   }
 
-  body {
+  #app {
     color: #333333;
     height: 100%;
   }
